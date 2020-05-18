@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-clothing-site/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-clothing-site/static/js/main.f7dd618c.chunk.js",
+    "main.js.map": "/react-clothing-site/static/js/main.f7dd618c.chunk.js.map",
+    "runtime-main.js": "/react-clothing-site/static/js/runtime-main.d67f19ae.js",
+    "runtime-main.js.map": "/react-clothing-site/static/js/runtime-main.d67f19ae.js.map",
+    "static/js/2.79a4dcf4.chunk.js": "/react-clothing-site/static/js/2.79a4dcf4.chunk.js",
+    "static/js/2.79a4dcf4.chunk.js.map": "/react-clothing-site/static/js/2.79a4dcf4.chunk.js.map",
+    "index.html": "/react-clothing-site/index.html",
+    "precache-manifest.ceeca3ef77d82d79e9131e370ec15713.js": "/react-clothing-site/precache-manifest.ceeca3ef77d82d79e9131e370ec15713.js",
+    "service-worker.js": "/react-clothing-site/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-clothing-site/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.79a4dcf4.chunk.js.LICENSE.txt": "/react-clothing-site/static/js/2.79a4dcf4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-clothing-site/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d67f19ae.js",
+    "static/js/2.79a4dcf4.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f7dd618c.chunk.js"
+  ]
+}
